@@ -45,3 +45,5 @@ you want to use the latest dev build.
     $ npm install
     $ npm run build
 
+## Hoge
+foo bar
