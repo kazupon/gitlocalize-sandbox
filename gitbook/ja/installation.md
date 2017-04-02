@@ -49,3 +49,7 @@ $ cd node_modules/vue-i18n
 $ npm install
 $ npm run build
 ```
+
+## ほげ
+
+ふーばー
